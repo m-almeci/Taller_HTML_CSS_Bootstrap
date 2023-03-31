@@ -1,1 +1,1 @@
-# Talleres_DesarrolloSW
+# Desarrollo de Software en Equipos - Talleres individuales
