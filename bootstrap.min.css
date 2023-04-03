@@ -63,11 +63,12 @@ img {
 
 .backgrad {
     background: rgb(28,32,51);
-    background: radial-gradient(circle, rgba(28,32,51,1) 0%, rgba(0,0,0,1) 100%);
+    background: radial-gradient(circle, rgb(53, 57, 74) 0%, rgba(0,0,0,1) 100%);
 }
 
 ul {
     padding-left: 0;
     text-align: center;
     list-style-position: inside;
+    columns: 2;
 }
